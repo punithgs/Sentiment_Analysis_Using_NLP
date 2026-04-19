@@ -1,6 +1,5 @@
 # Sentiment Analysis using Natural Language Processing and Machine Learning with 96.8% Accuracy
 
-
 ## Table of Contents
 
 - [Overview](#overview)
