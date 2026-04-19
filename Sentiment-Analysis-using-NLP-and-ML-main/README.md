@@ -47,7 +47,6 @@ The primary goals of this project are as follows:
 I sourced my dataset from kaggle where a wide variety of datasets from various topics are available.
 Link to the dataset - https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis
 
-
 ## Models
 
 1. **Random Forest**: Random Forest is a versatile ensemble learning technique in machine learning. It builds multiple decision trees and aggregates their predictions to improve accuracy and mitigate overfitting, making    it widely used for classification and regression tasks. Its strength lies in combining diverse models for robust and reliable predictions.
